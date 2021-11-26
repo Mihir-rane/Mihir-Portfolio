@@ -124,7 +124,7 @@ function App() {
                       <p> <span> Country : </span>India </p>
                   </div>
               </div>
-              <a href="https://drive.google.com/file/d/1r1bzv5ur14elH_nU3Jl-68rl5R6_q3-Y/view?usp=sharing" target="_blank" className="btn">Resume</a>
+              <a href="https://drive.google.com/file/d/1J2Hy23exQli7nw151cfbY1BbijoMndKY/view?usp=sharing" target="_blank" className="btn">Resume</a>
           </div>
 
       </div>
@@ -199,7 +199,15 @@ function App() {
             </div>
 
             <div className="box">
+                <h3>GraphQL</h3>
+            </div>
+            
+            <div className="box">
                 <h3>Django</h3>
+            </div>
+
+            <div className="box">
+                <h3>Next.js</h3>
             </div>
 
             <div className="box">
@@ -208,6 +216,10 @@ function App() {
 
             <div className="box">
                 <h3>Javascript</h3>
+            </div>
+
+            <div className="box">
+                <h3>SASS</h3>
             </div>
 
             <div className="box">
