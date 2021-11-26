@@ -124,7 +124,7 @@ function App() {
                       <p> <span> Country : </span>India </p>
                   </div>
               </div>
-              <a href="https://drive.google.com/file/d/1J2Hy23exQli7nw151cfbY1BbijoMndKY/view?usp=sharing" target="_blank" className="btn">Resume</a>
+              <a href="https://drive.google.com/file/d/1bGh1KF9ZDRIKGZO80LsCV9kn-M3w9J9P/view?usp=sharing" target="_blank" className="btn">Resume</a>
           </div>
 
       </div>
